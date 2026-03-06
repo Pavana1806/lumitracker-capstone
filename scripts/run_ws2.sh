@@ -22,3 +22,7 @@ python -m ws2.asset_prioritization \
   --min-observations 20 \
   --asset-flag-threshold 0.30 \
   2>&1 | tee "${LOG_FILE}"
+
+# Copy HTML to docs/ for GitHub Pages
+mkdir -p "${ROOT_DIR}/docs"
+cp "${ROOT_DIR}/outputs/ws2/figures/flagged_assets_map.html" "${ROOT_DIR}/docs/"

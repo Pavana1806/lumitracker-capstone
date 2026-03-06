@@ -160,6 +160,9 @@ lumitracker_capstone/
 │           ├── City of Sugar Land Streetlight locations.xlsx
 │           ├── City of Sugar Land Traffic Roadway Lights locations.xlsx
 │           └── Avalon private street lights map.pdf
+├── docs/
+│   ├── index.html
+│   └── flagged_assets_map.html
 ├── outputs/
 │   └── ws2/
 │       ├── figures/
@@ -174,6 +177,32 @@ lumitracker_capstone/
 ├── README.md
 └── requirements.txt
 ```
+
+---
+
+## GitHub Pages
+
+This repository includes a `docs/` folder with an interactive map visualization that can be published to GitHub Pages.
+
+### Setup GitHub Pages
+
+1. **Create a GitHub repository** and push this code:
+   ```bash
+   # Add your GitHub remote (replace with your repo URL)
+   git remote add origin https://github.com/yourusername/lumitracker-ws2.git
+   git branch -M main
+   git push -u origin main
+   ```
+
+2. **Enable GitHub Pages** in your repository:
+   - Go to Settings → Pages
+   - Select "Deploy from a branch"
+   - Choose "main" branch and "/docs" folder
+   - Click Save
+
+3. **Access your site** at: `https://yourusername.github.io/lumitracker-ws2/`
+
+The main page (`index.html`) provides an overview and links to the interactive asset prioritization map.
 
 ---
 
