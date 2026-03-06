@@ -1,0 +1,12 @@
+metric,value
+total_rows_analyzed,2455221
+zero_readings_count,567743
+zero_readings_pct,23.1239
+cap_value_used_lux,24.766667
+cutoff_value_used_lux,0.556667
+low_performance_count,951497
+low_performance_share_pct,38.754
+join_method,nearest_neighbor_haversine
+distance_tolerance_ft,100.0
+min_observations,20
+asset_flag_threshold,0.3

@@ -1,0 +1,21 @@
+rank,asset_id,asset_source,severity_tier,latitude,longitude,observation_count,low_performance_count,pct_low_performance_pct,mean_lux,mean_lux_capped,mean_match_distance_ft,fixture_wattage_type,last_update
+1,443714,city_streetlight,Critical,29.58247,-95.637147,658,658,100.0,0.0,0.0,46.51,150 HPS P,2025-04-02
+2,328981,city_streetlight,Critical,29.644407,-95.631288,586,586,100.0,0.0,0.0,45.29,45 LED D,2025-04-01
+3,682074,city_streetlight,Critical,29.576593,-95.647397,494,494,100.0,0.0,0.0,75.54,250 HPS S,2025-04-02
+4,690747,city_streetlight,Critical,29.594022,-95.599202,439,439,100.0,0.0,0.0,72.23,95 LED A,2025-04-01
+5,328960,city_streetlight,Critical,29.646472,-95.630881,279,279,100.0,0.0,0.0,55.34,45 LED D,2025-04-01
+6,534471,city_streetlight,Critical,29.554441,-95.636648,275,275,100.0,0.0,0.0,33.44,100 HPS L,2021-02-11
+7,329335,city_streetlight,Critical,29.658977,-95.611664,263,263,100.0,0.0,0.0,52.89,100 HPS L,2025-04-01
+8,365722,city_streetlight,Critical,29.597552,-95.594495,254,254,100.0,0.0,0.0,61.11,95 LED A,2025-04-01
+9,401602,city_streetlight,Critical,29.583392,-95.626212,246,246,100.0,0.0,0.0,25.64,45 LED D,2018-10-23
+10,682069,city_streetlight,Critical,29.576736,-95.644466,242,242,100.0,0.0,0.0,46.75,250 HPS S,2025-04-02
+11,424448,city_streetlight,Critical,29.584924,-95.634248,220,220,100.0,0.0,0.0,40.92,45 LED D,2025-04-02
+12,434818,city_streetlight,Critical,29.582189,-95.638563,210,210,100.0,0.0,0.0,45.71,45 LED D,2025-04-02
+13,682054,city_streetlight,Critical,29.582292,-95.641301,199,199,100.0,0.0,0.0,57.29,115 LED B,2025-04-02
+14,682070,city_streetlight,Critical,29.576581,-95.644916,186,186,100.0,0.0,0.0,55.36,250 HPS S,2025-04-02
+15,329181,city_streetlight,Critical,29.644694,-95.62078,173,173,100.0,0.0,0.0,42.97,45 LED D,2025-04-01
+16,682057,city_streetlight,Critical,29.581588,-95.642754,170,170,100.0,0.0,0.0,57.27,250 HPS S,2025-04-02
+17,328982,city_streetlight,Critical,29.644574,-95.630675,169,169,100.0,0.0,0.0,49.62,45 LED D,2025-04-01
+18,329148,city_streetlight,Critical,29.647527,-95.623982,164,164,100.0,0.0,0.0,40.25,45 LED D,2025-04-01
+19,328977,city_streetlight,Critical,29.644153,-95.627976,159,159,100.0,0.0,0.0,48.4,45 LED D,2025-04-01
+20,328986,city_streetlight,Critical,29.644557,-95.628306,157,157,100.0,0.0,0.0,66.23,45 LED D,2025-04-01
