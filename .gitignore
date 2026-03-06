@@ -130,11 +130,8 @@ Desktop.ini
 # VS Code
 .vscode/
 
-# Outputs (uncomment if you want to ignore generated outputs)
-# outputs/
-# But you might want to keep tables/ and ignore only logs/figures/
-# outputs/ws2/logs/
-# outputs/ws2/figures/
+# Outputs (generated files - we keep the HTML in docs/ for GitHub Pages)
+outputs/
 
 # Data (uncomment if you want to ignore large data files)
 # data/
