@@ -44,7 +44,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--traffic-lights", required=True, help="Path to traffic roadway lights xlsx")
     parser.add_argument("--avalon-pdf", required=False, default="", help="Path to Avalon PDF reference")
     parser.add_argument("--output-dir", required=True, help="Output directory for WS2 results")
-    parser.add_argument("--max-distance-ft", type=float, default=100.0, help="Nearest-neighbor tolerance in feet")
+    parser.add_argument("--max-distance-ft", type=float, default=50.0, help="Nearest-neighbor tolerance in feet")
     parser.add_argument("--min-observations", type=int, default=20, help="Minimum observations for reliable asset classification")
     parser.add_argument("--asset-flag-threshold", type=float, default=0.30, help="Operational asset flag threshold")
     parser.add_argument("--chunksize", type=int, default=250000, help="CSV chunk size for processing")

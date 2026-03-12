@@ -14,7 +14,7 @@ python -m ws2.asset_prioritization \
   --traffic-lights "${ROOT_DIR}/data/raw/gis/City of Sugar Land Traffic Roadway Lights locations.xlsx" \
   --avalon-pdf "${ROOT_DIR}/data/raw/gis/Avalon private street lights map.pdf" \
   --output-dir "${ROOT_DIR}/outputs/ws2" \
-  --max-distance-ft 100 \
+  --max-distance-ft 50 \
   --min-observations 20 \
   --asset-flag-threshold 0.30
 
